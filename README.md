@@ -1,7 +1,7 @@
 ## Important links 
 
 [Syllabus](https://drive.google.com/file/d/1GV1nO8scPDJ6YRjHhkZdivPyLsZ90CQx/view?usp=sharing)
-[Class Repository](https://github.com/learn-co-students/dc-ds-021720/blob/master/README.md)
+[Class Repository](https://github.com/learn-co-students/dc-ds-021720)
 [Blog Submission Form](https://forms.gle/y9HDFK59PLVS74cq8)
 [Additional Resources](https://drive.google.com/open?id=1qYxioNRi3tJmA-PrsdJZm16RDEnyk_fsLLETlCRsScU)
 
