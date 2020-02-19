@@ -21,7 +21,7 @@
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
 |Tools of the Trade| N/A | [youtube](https://youtu.be/7IDBi_E_hDY)|
-|Getting Comfortable with Python| [notebook]()| [youtube]()|
+|Getting Comfortable with Python| [notebook]()| [youtube](https://youtu.be/GDZFaaxX0yo)|
 | Git Review Coach Lab | N/A | [youtube](https://youtu.be/OFwcnTX38f0)
 
 # Module 2
