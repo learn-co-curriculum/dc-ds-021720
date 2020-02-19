@@ -21,6 +21,7 @@
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
 |Tools of the Trade| N/A | [youtube](https://youtu.be/7IDBi_E_hDY)|
+|Getting Comfortable with Python| [notebook]()| [youtube]()|
 
 # Module 2
 | Topic                                  | Code                | Video                |
