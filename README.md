@@ -20,6 +20,7 @@
 
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
+|Tools of the Trade| N/A | [youtube](https://youtu.be/7IDBi_E_hDY)|
 
 # Module 2
 | Topic                                  | Code                | Video                |
