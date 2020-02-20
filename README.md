@@ -21,7 +21,7 @@
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
 |Tools of the Trade| N/A | [youtube](https://youtu.be/7IDBi_E_hDY)|
-|Getting Comfortable with Python| [notebook]()| [youtube](https://youtu.be/GDZFaaxX0yo)|
+|Getting Comfortable with Python| [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-1/day-2-python-101/python-fundamentals-enkeboll.ipynb)| [youtube](https://youtu.be/GDZFaaxX0yo)|
 | Git Review Coach Lab | N/A | [youtube](https://youtu.be/OFwcnTX38f0)
 
 # Module 2
