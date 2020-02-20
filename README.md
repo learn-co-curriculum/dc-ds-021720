@@ -24,6 +24,8 @@
 |Getting Comfortable with Python| [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-1/day-2-python-101/python-fundamentals-enkeboll.ipynb)| [youtube](https://youtu.be/GDZFaaxX0yo)|
 | Git Review Coach Lab | N/A | [youtube](https://youtu.be/OFwcnTX38f0) |
 | Numpy pt.1 | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-1/day-3-numpy-pandas) | [youtube](https://youtu.be/xkHZj-hXP30) | 
+| Pandas Coach Lab | [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-1/day-3-coach-lab-pandas/Pandas%20Tips%20%26%20Review-mmitchell.ipynb) | [youtube](https://youtu.be/zwDRcsde_jA) |
+
 
 # Module 2
 | Topic                                  | Code                | Video                |
