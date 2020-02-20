@@ -22,7 +22,8 @@
 |:---|:---|:---|
 |Tools of the Trade| N/A | [youtube](https://youtu.be/7IDBi_E_hDY)|
 |Getting Comfortable with Python| [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-1/day-2-python-101/python-fundamentals-enkeboll.ipynb)| [youtube](https://youtu.be/GDZFaaxX0yo)|
-| Git Review Coach Lab | N/A | [youtube](https://youtu.be/OFwcnTX38f0)
+| Git Review Coach Lab | N/A | [youtube](https://youtu.be/OFwcnTX38f0) |
+| Numpy pt.1 | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-1/day-3-numpy-pandas) | [youtube](https://youtu.be/xkHZj-hXP30) | 
 
 # Module 2
 | Topic                                  | Code                | Video                |
