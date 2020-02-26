@@ -27,7 +27,7 @@
 | Pandas | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-1/day-4-more-pandas) | [youtube](https://youtu.be/I7zePxg5zow) [youtube pt.2](https://youtu.be/oMNM8MaGVIE)| 
 | Pandas Coach Lab | [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-1/day-3-coach-lab-pandas/Pandas%20Tips%20%26%20Review-mmitchell.ipynb) | [youtube](https://youtu.be/zwDRcsde_jA) |
 | Restructuring Pandas | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-1/day-5-most-pandas) | |
-| Vizualize this | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-1/day-6-visualizations) | |
+| Vizualize this | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-1/day-6-visualizations) | [youtube](https://youtu.be/LFzop7O46Xk) |
 | Branching Coach Lab | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-1/day-7-coach-lab-git-branching) | n/a |
 
 # Module 2
