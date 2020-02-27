@@ -30,6 +30,7 @@
 | Vizualize this | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-1/day-6-visualizations) | [youtube](https://youtu.be/LFzop7O46Xk) |
 | Branching Coach Lab | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-1/day-7-coach-lab-git-branching) | n/a |
 | SQL | [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-1/day-7-sql/sql-to-pandas.ipynb) | [youtube](https://youtu.be/j4smT0Vu40w) |
+| APIs | [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-1/day-8-apis/json-api.ipynb) | [youtube](https://youtu.be/1PRg67F0m6s) | 
 
 # Module 2
 | Topic                                  | Code                | Video                |
