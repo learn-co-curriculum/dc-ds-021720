@@ -32,6 +32,7 @@
 | SQL | [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-1/day-7-sql/sql-to-pandas.ipynb) | [youtube](https://youtu.be/j4smT0Vu40w) |
 | APIs | [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-1/day-8-apis/json-api.ipynb) | [youtube](https://youtu.be/1PRg67F0m6s) | 
 | Webscraping | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-1/day-9-webscraping) | [youtube](https://youtu.be/UmoMPk2ZFH8) |
+| NoSQL | [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-1/day-10-nosql/nosql.ipynb) | [youtube](https://www.youtube.com/watch?v=6_sTnROy6B8&list=PLc6AmvC5ZybyO-sW8YdyJ86SRl4IZre0t&index=21&t=0s) |
 
 # Module 2
 | Topic                                  | Code                | Video                |
