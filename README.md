@@ -39,11 +39,13 @@
 | APIs | [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-1/day-8-apis/json-api.ipynb) | [youtube](https://youtu.be/1PRg67F0m6s) | 
 | Webscraping | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-1/day-9-webscraping) | [youtube](https://youtu.be/UmoMPk2ZFH8) |
 | NoSQL | [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-1/day-10-nosql/nosql.ipynb) | [youtube](https://www.youtube.com/watch?v=6_sTnROy6B8&list=PLc6AmvC5ZybyO-sW8YdyJ86SRl4IZre0t&index=21&t=0s) |
-| Coding Best Practices|[notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-1/day-11-coding_best_practices/coding_best_practices.ipynb)  |[youtuve](https://youtu.be/STlwliq41_A)|
+| Coding Best Practices|[notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-1/day-11-coding_best_practices/coding_best_practices.ipynb)  |[youtube](https://youtu.be/STlwliq41_A)|
 
 # Module 2
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
+|Probability| [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-2/week-1/day-1-Probability-Distributions/Probability/Probability_after_class.ipynb) | [youtube](https://youtu.be/tvD_Y80kvD8)|
+|Distributions| [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-2/week-1/day-1-Probability-Distributions/Random_variables/Distributions.ipynb) | [youtube](https://youtu.be/uNwcSdyi_MQ)|
 
 # Module 3
 | Topic                                  | Code                | Video                |
