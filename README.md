@@ -46,6 +46,7 @@
 |:---|:---|:---|
 |Probability| [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-2/week-1/day-1-Probability-Distributions/Probability/Probability_after_class.ipynb) | [youtube](https://youtu.be/tvD_Y80kvD8)|
 |Distributions| [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-2/week-1/day-1-Probability-Distributions/Random_variables/Distributions.ipynb) | [youtube](https://youtu.be/uNwcSdyi_MQ)|
+| Confidence Intervals| [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-2/week-1/day-2-CLT_Confidence_Intervals/confidence-intervals/Confidence_Intervals.ipynb)   |[youtube](https://youtu.be/Q10GdOYP8e4)|
 
 # Module 3
 | Topic                                  | Code                | Video                |
