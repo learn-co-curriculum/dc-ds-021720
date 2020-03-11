@@ -11,11 +11,11 @@
 | --- | --- | --- | --- | --- |
 |Joe McHugh   | https://medium.com/@teamastertoast/a-method-to-using-git-for-learn-co-lessons-37c533449db4 | --- | --- | --- |
 |Joe Buzzelli  |https://medium.com/@jbuzzelli202/tabularize-your-data-with-normal-former-in-python-63ed1b3a328fhttps://medium.com/@jbuzzelli202/tabularize-your-data-with-normal-former-in-python-63ed1b3a328f| --- | --- | --- |
-|Muhammad Ahsan  | https://medium.com/@ahsanclouds/introduction-to-numpy-4ca00a2c5268 | --- | --- | --- |
 |Alphonso Woodbury| https://medium.com/@alphonsorees/the-time-value-of-data-bf73347cf512| --- | --- | --- |
 |Vivian Dang   |https://medium.com/@dangtvivian/saving-healthcare-costs-with-big-data-7ae63924c0ed| --- | --- | --- |
 |Jaison Renkenberger |https://synestheticcoding.blogspot.com/2020/02/parsing-practically-with-regular.html| --- | --- | --- |
 |Michael Wang  | [mwang.dev](mwang.dev) | --- | --- | --- |
+|Muhammad Ahsan  | https://medium.com/@ahsanclouds/introduction-to-numpy-4ca00a2c5268 | --- | --- | --- |
 
 ## Calendar
 
