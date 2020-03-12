@@ -50,6 +50,7 @@
 | Probability and Distributions Coach Lab|[google doc](https://docs.google.com/document/d/1H5OVcgtCT5Lz2QoWeGzDQmNS1k6NgHaBxDMqk1n4rd4/edit?usp=sharing) |[youtube](https://youtu.be/2qMv8E6ZG88)|
 | Hypothesis Testing pt.1 | [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-2/week-1/day-3-hypothesis-testing/hypothesis_testing_after_class.ipynb) | [youtube](https://www.youtube.com/watch?v=pr3bMhOS7gM&feature=youtu.be) |
 | Hypothesis Testing pt.2 | [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-2/week-1/day-3-hypothesis-testing/Hypothesis_test_part_2_after_class.ipynb) | [youtube](https://youtu.be/Bw5k6PRlC44) |
+| Power & Effect Size | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-2/week-1/day-4-AB_testing_Effect_size) | [youtube](https://youtu.be/YBrWWIh6H4I) |
 | Coach Lab - Hypothesis Testing | [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-2/week-1/day-4-AB_testing_Effect_size/coachlab/hypothesis_testing_staff.ipynb) | [youtube](https://youtu.be/PYc4v_4eQcQ) 
 
 # Module 3
