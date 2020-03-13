@@ -52,6 +52,8 @@
 | Hypothesis Testing pt.2 | [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-2/week-1/day-3-hypothesis-testing/Hypothesis_test_part_2_after_class.ipynb) | [youtube](https://youtu.be/Bw5k6PRlC44) |
 | Power & Effect Size | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-2/week-1/day-4-AB_testing_Effect_size) | [youtube](https://youtu.be/YBrWWIh6H4I) |
 | Coach Lab - Hypothesis Testing | [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-2/week-1/day-4-AB_testing_Effect_size/coachlab/hypothesis_testing_staff.ipynb) | [youtube](https://youtu.be/PYc4v_4eQcQ) 
+| Bayes Theorem | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-2/week-1/day-5-Bayes_theorem) | [youtube](https://youtu.be/93BfcjnNJpk) |
+
 
 # Module 3
 | Topic                                  | Code                | Video                |
