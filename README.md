@@ -53,8 +53,7 @@
 | Power & Effect Size | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-2/week-1/day-4-AB_testing_Effect_size) | [youtube](https://youtu.be/YBrWWIh6H4I) |
 | Coach Lab - Hypothesis Testing | [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-2/week-1/day-4-AB_testing_Effect_size/coachlab/hypothesis_testing_staff.ipynb) | [youtube](https://youtu.be/PYc4v_4eQcQ) 
 | Bayes Theorem | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-2/week-1/day-5-Bayes_theorem) | [youtube](https://youtu.be/93BfcjnNJpk) |
-
-
+| Linear Regression | [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-2/week-2/day-1-Simple_Linear_Regression/Simple_regression_0217_1-after_class.ipynb) | [youtube](https://youtu.be/64-KZxenNsk) |
 # Module 3
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
