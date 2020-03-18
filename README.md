@@ -56,6 +56,8 @@
 | Linear Regression | [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-2/week-2/day-1-Simple_Linear_Regression/Simple_regression_0217_1-after_class.ipynb) | [youtube](https://youtu.be/64-KZxenNsk) |
 | Multiple Linear Regression |  [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-2/week-2/day-2-multiple_linear_regression/Linear_Regression_Multiple_0217_after_class_1.ipynb) | [youtube pt.1](https://youtu.be/Wd-bUDKmJsY
 ) • [youtube pt.2](https://youtu.be/YSkMBXnU3to) |
+| Polynomial Regression | [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-2/week-2/day-3-Polynomial_regression/Experiments-After_Class.ipynb) | [youtube](https://youtu.be/cml_BwEz7JA) | 
+| Scalers | [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-2/week-2/day-3-Polynomial_regression/Scalers_after_class.ipynb) | [youtube](https://youtu.be/PT6YCfPYIhM) |
 
 
 # Module 3
