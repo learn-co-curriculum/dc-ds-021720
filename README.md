@@ -57,6 +57,7 @@
 | Multiple Linear Regression |  [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-2/week-2/day-2-multiple_linear_regression/Linear_Regression_Multiple_0217_after_class_1.ipynb) | [youtube pt.1](https://youtu.be/Wd-bUDKmJsY) • [youtube pt.2](https://youtu.be/YSkMBXnU3to) |
 | Polynomial Regression | [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-2/week-2/day-3-Polynomial_regression/Experiments-After_Class.ipynb) | [youtube](https://youtu.be/cml_BwEz7JA) | 
 | Scalers | [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-2/week-2/day-3-Polynomial_regression/Scalers_after_class.ipynb) | [youtube](https://youtu.be/PT6YCfPYIhM) |
+| Train-Test Split | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-2/week-2/day-4-Model_Selection-Model_Evaluation) | [youtube](https://youtu.be/AF3d2sW4TwY) | 
 
 
 # Module 3
