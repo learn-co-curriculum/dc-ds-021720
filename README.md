@@ -63,6 +63,7 @@
 # Module 3
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
+| OOP pt.1 | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-1/day-1-Introduction_to_ML) | [youtube](https://youtu.be/q9BfqkxBISg) |
 
 # Module 4
 | Topic                                  | Code                | Video                |
