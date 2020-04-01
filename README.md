@@ -65,6 +65,8 @@
 |:---|:---|:---|
 | Intro to ML | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-1/day-1-Introduction_to_ML) | [youtube](https://youtu.be/q9BfqkxBISg) |
 | Regularization | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-1/day-2-Lasso-Ridge/regularization) | [youtube](https://youtu.be/0o7o8uoBzyk) | 
+| Logistic Regression pt.1 | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-1/day-3-Logistic_Regression/Logistic_Regression) | [youtube](https://youtu.be/D7voUPKkE78) |
+| Logistic Regression pt.2 | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-1/day-3-Logistic_Regression/Logistic_Regression_part2) | n/a |
 
 # Module 4
 | Topic                                  | Code                | Video                |
