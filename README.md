@@ -67,6 +67,10 @@
 | Regularization | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-1/day-2-Lasso-Ridge/regularization) | [youtube](https://youtu.be/0o7o8uoBzyk) | 
 | Logistic Regression pt.1 | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-1/day-3-Logistic_Regression/Logistic_Regression) | [youtube](https://youtu.be/D7voUPKkE78) |
 | Logistic Regression pt.2 | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-1/day-3-Logistic_Regression/Logistic_Regression_part2) | n/a |
+| Cost Functions | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-1/day-4-Gradient-Descent/01_linear_algebra) | [recording](https://wework.zoom.com/rec/share/39ckbPbd-ltIZNbrymPaVelmA5r8T6a82ihLr_ULzBnfk6aWEFJzKNn2QUQvasJ9) pass: 040220 |
+| Gradient Decent | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-1/day-4-Gradient-Descent/02_gradient_descent) | [recording](https://wework.zoom.com/rec/share/5uBSfr79pl9LWrOO8H2HcL4OEbvZaaa81CRI-KIOyvXTuqnrW-CkxKQLaGgXqj0) pass: 040220 |
+
+
 
 # Module 4
 | Topic                                  | Code                | Video                |
