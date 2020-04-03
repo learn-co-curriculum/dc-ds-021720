@@ -70,6 +70,7 @@
 | Cost Functions | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-1/day-4-Gradient-Descent/01_linear_algebra) | [recording](https://wework.zoom.com/rec/share/39ckbPbd-ltIZNbrymPaVelmA5r8T6a82ihLr_ULzBnfk6aWEFJzKNn2QUQvasJ9) pass: 040220 |
 | Gradient Decent | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-1/day-4-Gradient-Descent/02_gradient_descent) | [recording](https://wework.zoom.com/rec/share/5uBSfr79pl9LWrOO8H2HcL4OEbvZaaa81CRI-KIOyvXTuqnrW-CkxKQLaGgXqj0) pass: 040220 |
 |Coach Lab Regression with Ridge and Lasso| [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-3/week-1/day-4-Coach_Lab-Lasso-Ridge/Regression-lab-mmitchell.ipynb) | [video](https://wework.zoom.com/rec/share/5pRbN4PR2HhOHYWVxGDmeJ8NDobvaaa80yMc-PFfnU3nvRrCfaMtv2tUb08_myx8)
+| Evaluation Metrics | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-1/day-5-Classification_metrics) | [recording](https://wework.zoom.com/rec/share/u5JKL4zV32hOaZHh832FQawOT8Pdaaa80HcarvAIxUa-8uoze2R27tockqOniXuy) pass: 0217 |
 
 
 # Module 4
