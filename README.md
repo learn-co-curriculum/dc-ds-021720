@@ -71,6 +71,8 @@
 | Gradient Decent | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-1/day-4-Gradient-Descent/02_gradient_descent) | [recording](https://wework.zoom.com/rec/share/5uBSfr79pl9LWrOO8H2HcL4OEbvZaaa81CRI-KIOyvXTuqnrW-CkxKQLaGgXqj0) pass: 0217 |
 |Coach Lab Regression with Ridge and Lasso| [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-3/week-1/day-4-Coach_Lab-Lasso-Ridge/Regression-lab-mmitchell.ipynb) | [video](https://wework.zoom.com/rec/share/5pRbN4PR2HhOHYWVxGDmeJ8NDobvaaa80yMc-PFfnU3nvRrCfaMtv2tUb08_myx8)
 | Evaluation Metrics | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-1/day-5-Classification_metrics) | [recording](https://wework.zoom.com/rec/share/u5JKL4zV32hOaZHh832FQawOT8Pdaaa80HcarvAIxUa-8uoze2R27tockqOniXuy) pass: 0217 |
+| KNN | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-2/day-6-knn) | [video](https://wework.zoom.com/rec/share/2_dfEuHC0z5JYM_P50DwRoRmE6qieaa80CkWqPVbxE7ebuza-U1vU7ITKNkFWx3Y) | 
+| Pipelines | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-2/day-6-pipelines) | [video](https://wework.zoom.com/rec/share/_8lIKb_K2X5JUrfK1lnQQIg_P6jgeaa82ihLqaBcn0ZcXJsguZPdPfVJdB17I-YS) | 
 
 
 # Module 4
