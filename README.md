@@ -75,7 +75,7 @@
 | Pipelines | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-2/day-6-pipelines) | [video](https://wework.zoom.com/rec/share/_8lIKb_K2X5JUrfK1lnQQIg_P6jgeaa82ihLqaBcn0ZcXJsguZPdPfVJdB17I-YS) | 
 | Naive Bayes pt.1| [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-3/week-2/day-7-Naive_Bayes/05.05-Naive-Bayes.ipynb) | [video](https://wework.zoom.com/rec/share/y9BFaKzJy0BIG4XvsFiFWrUcQ6Gmeaa81CVPr_Bczxyi0nXtIXqIVJ4ccf328hgz) |
 | Naive Bayes pt.2| [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-2/day-7-Classification_with_Naive_Bayes) | [video](https://wework.zoom.com/rec/share/tcl_EuDI2n1JHquQ40HGBPQKPqfoeaa81nAWrKZcnR2P6fjuos66VewNOVjAtyKU) |
-| Coach Lab- CRISP-DM Classification |[notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-3/week-2/day-7-Coach_Lab-CRISP-DM-Classification/Mod_3_CRISP_DM-mmitchell.ipynb)|[video]()|
+| Coach Lab- CRISP-DM Classification |[notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-3/week-2/day-7-Coach_Lab-CRISP-DM-Classification/Mod_3_CRISP_DM-mmitchell.ipynb)|[video](https://wework.zoom.com/rec/share/3sprP7jgznNOS6OU0UzyGak6QoS7aaa81iMXq_oEzRrHa3WXYszAGbbD9nfhlUJP)|
 
 
 # Module 4
