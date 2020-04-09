@@ -76,7 +76,8 @@
 | Naive Bayes pt.1| [notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-3/week-2/day-7-Naive_Bayes/05.05-Naive-Bayes.ipynb) | [video](https://wework.zoom.com/rec/share/y9BFaKzJy0BIG4XvsFiFWrUcQ6Gmeaa81CVPr_Bczxyi0nXtIXqIVJ4ccf328hgz) |
 | Naive Bayes pt.2| [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-2/day-7-Classification_with_Naive_Bayes) | [video](https://wework.zoom.com/rec/share/tcl_EuDI2n1JHquQ40HGBPQKPqfoeaa81nAWrKZcnR2P6fjuos66VewNOVjAtyKU) |
 | Coach Lab- CRISP-DM Classification |[notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-3/week-2/day-7-Coach_Lab-CRISP-DM-Classification/Mod_3_CRISP_DM-mmitchell.ipynb)|[video](https://wework.zoom.com/rec/share/3sprP7jgznNOS6OU0UzyGak6QoS7aaa81iMXq_oEzRrHa3WXYszAGbbD9nfhlUJP)|
-
+| Decision Tree Classifiers |[notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-2/day-8-Decision_tree_classifiers) | [video](https://wework.zoom.com/rec/share/9NReFJrUzmBJRc_muXnReLQIJaG-aaa8gCZMr_JZzx6wMEis5_jh7RgFu9Dr1_sc) |
+| Decision Trees Regressors |[notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-2/day-8-Decision_tree_regressors) | [video](https://wework.zoom.com/rec/share/1_J7bLHq1TpJH8_i1Gb4Y4wLMJr8T6a8gSNIqfMLxEmMFlDIAFpCQZzcvr7P6mKu) |
 
 # Module 4
 | Topic                                  | Code                | Video                |
