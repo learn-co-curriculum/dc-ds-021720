@@ -78,7 +78,7 @@
 | Coach Lab- CRISP-DM Classification |[notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-3/week-2/day-7-Coach_Lab-CRISP-DM-Classification/Mod_3_CRISP_DM-mmitchell.ipynb)|[video](https://wework.zoom.com/rec/share/3sprP7jgznNOS6OU0UzyGak6QoS7aaa81iMXq_oEzRrHa3WXYszAGbbD9nfhlUJP)|
 | Decision Tree Classifiers |[notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-2/day-8-Decision_tree_classifiers) | [video](https://wework.zoom.com/rec/share/9NReFJrUzmBJRc_muXnReLQIJaG-aaa8gCZMr_JZzx6wMEis5_jh7RgFu9Dr1_sc) |
 | Decision Trees Regressors |[notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-2/day-8-Decision_tree_regressors) | [video](https://wework.zoom.com/rec/share/1_J7bLHq1TpJH8_i1Gb4Y4wLMJr8T6a8gSNIqfMLxEmMFlDIAFpCQZzcvr7P6mKu) |
-| Hyperparameter Tuning | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-2/day-9-Hyperparameters) | [video](https://wework.zoom.com/rec/share/oudLLJqz20FLZpXQq2CPdbUBOJzFT6a81CMWrPoNmkcSZ1IqwBJDg_Re-Ob7UyEj) |
+| Hyperparameter Tuning | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-2/day-9-Hyperparameters) | [video](https://wework.zoom.com/rec/share/oudLLJqz20FLZpXQq2CPdbUBOJzFT6a81CMWrPoNmkcSZ1IqwBJDg_Re-Ob7UyEj) | Ensemble Methods | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-3/week-2/day-10-Random_Forests) | [video](https://wework.zoom.com/rec/share/3sZNdbX7_2xJc7fU6EzSeJIMGtjEX6a81CIb_adfyRos5NBuLFaki53SEzniBj1g) |
 
 # Module 4
 | Topic                                  | Code                | Video                |
