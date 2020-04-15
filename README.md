@@ -9,10 +9,10 @@
 ## Blogs
 |  Name | Blog #1 Link | Blog #2 Link | Blog #3 Link | Blog #4 Link |
 | --- | --- | --- | --- | --- |
-|Joe McHugh   | https://medium.com/@teamastertoast/a-method-to-using-git-for-learn-co-lessons-37c533449db4 | --- | --- | --- |
-|Joe Buzzelli  |https://medium.com/@jbuzzelli202/tabularize-your-data-with-normal-former-in-python-63ed1b3a328fhttps://medium.com/@jbuzzelli202/tabularize-your-data-with-normal-former-in-python-63ed1b3a328f| --- | --- | --- |
-|Alphonso Woodbury| https://medium.com/@alphonsorees/the-time-value-of-data-bf73347cf512| --- | --- | --- |
-|Vivian Dang   |https://medium.com/@dangtvivian/saving-healthcare-costs-with-big-data-7ae63924c0ed| --- | --- | --- |
+|Joe McHugh   | https://medium.com/@teamastertoast/a-method-to-using-git-for-learn-co-lessons-37c533449db4 | --- | https://medium.com/@teamastertoast/predicting-hotel-cancellations-af0f9b594b47 | --- |
+|Joe Buzzelli  |https://medium.com/@jbuzzelli202/tabularize-your-data-with-normal-former-in-python-63ed1b3a328fhttps://medium.com/@jbuzzelli202/tabularize-your-data-with-normal-former-in-python-63ed1b3a328f| https://medium.com/@jbuzzelli202/bradley-beal-is-he-clutch-lets-look-at-the-stats-3d2a78849f7d?sk=f78b1be4e4b164609616038a98eb589f | https://medium.com/@jbuzzelli202/garbage-in-slightly-less-garbage-out-7fa6caad69af | --- |
+|Alphonso Woodbury| https://medium.com/@alphonsorees/the-time-value-of-data-bf73347cf512| https://medium.com/@alphonsorees/recreating-the-mona-loa-curve-38a459f6938a | https://medium.com/@alphonsorees/the-makings-of-a-module-5990100216d4 | --- |
+|Vivian Dang   |https://medium.com/@dangtvivian/saving-healthcare-costs-with-big-data-7ae63924c0ed| https://medium.com/@dangtvivian/analysis-of-keytrudas-basket-trial-827d2856753a | https://medium.com/@dangtvivian/choropleth-map-with-jhu-covid-19-dataset-652530332de5 | --- |
 |Jaison Renkenberger |https://synestheticcoding.blogspot.com/2020/02/parsing-practically-with-regular.html| --- | --- | --- |
 |Michael Wang  | [mwang.dev](mwang.dev) | --- | --- | --- |
 |Muhammad Ahsan  | https://medium.com/@ahsanclouds/introduction-to-numpy-4ca00a2c5268 | --- | --- | --- |
