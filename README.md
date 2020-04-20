@@ -84,3 +84,4 @@
 # Module 4
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
+| PCA | [notebook](https://github.com/learn-co-students/dc-ds-021720/tree/master/mod-4/week-1/day-1-PCA) | [video](https://wework.zoom.us/rec/share/v_5WLIygrUdLXLOUyRzTf4wzDLz3T6a80ycW_6YJyxtldM8-BFTMgB8ZPk02oo1j) [video pt.2](https://wework.zoom.us/rec/play/tcZ8I-7-pj43HYCcsgSDVPB6W42_e6usgSEbqPUKxUy8ByMGNgWvM-ATarYGMHeKbNG_sNH2_hHTxpsM?continueMode=true&_x_zm_rtaid=cgzqs1ZgQeKx3scQxFzG0A.1587415704243.45ff9e3afa8a9ab71fa6954ddea7ab01&_x_zm_rhtaid=449) |
