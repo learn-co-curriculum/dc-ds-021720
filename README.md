@@ -94,3 +94,4 @@
 |AWS|[notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-4/week-2/day-5-the-cloud/cloud_computing-enkeboll.ipynb)|[video](https://wework.zoom.com/rec/share/vfJbK4-qykBLQbfm8HH0ArZ7MNWmT6a82yNMq6VfzBoZEsvOnwHQ1BUUto1IfGbn)|
 |CNN|[notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-4/week-3/day-1-CNN/CNN_with_Keras.ipynb)|[video](https://wework.zoom.com/rec/share/7PdrI-H18SBLRoXv5kDDSIgHAd61X6a8gSJLr6EKz0gxfJeEqh_Ctnvwea9Pqls7)|
 |GCP|[notebook](https://github.com/learn-co-students/dc-ds-021720/blob/master/mod-4/week-3/day-1-GCP/Google%20Cloud%20Platform.ipynb)|[video-previously recorded](https://youtu.be/qnjiFjy1vt4)|
+|Intro to Flask and Streamlit|N/A|[video](https://wework.zoom.us/rec/share/ovVYNbjb215Jeon_s0DzdJN_Mtzgeaa81Ckd-vsEnU5AC0LUb1kQitJA3zEedESd)|
